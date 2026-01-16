@@ -56,7 +56,3 @@ The application features a built-in dashboard showing:
 -   Current Steps & Episode Count
 -   Live Action Values (Steering/Speed)
 -   Detailed logs for Crashes and Goals
-
-## 👨‍💻 Credits
-Advanced Reinforcement Learning Assignment (ERAV4 Session 17)
-Implementation by **Jayant Guru Shrivastava**.
